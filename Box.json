@@ -368,7 +368,7 @@
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/360影视.js"
     },
-     {
+    {
       "key": "drpy_js_优酷",
       "name": "优酷视频[JS]",
       "type": 3,
