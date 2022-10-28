@@ -11,13 +11,13 @@
       "ext":"https://agit.ai/wzs1973/test/raw/branch/master/alist.json"
     },
       "key": "csp_Bili",
-      "name": "哔哩哔哩[PS]",
+      "name":"哔哩哔哩[PS]",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/wzs1973/test/raw/branch/master/Bili/哔哩哔哩.json"
+      "ext":"https://agit.ai/wzs1973/test/raw/branch/master/Bili/哔哩哔哩.json"
     },
     {
       "key": "csp_Kunyu77",
