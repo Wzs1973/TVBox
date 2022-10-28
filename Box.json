@@ -492,7 +492,7 @@
       "key": "drpy_js_海兔影院",
       "name": "海兔影院[JS]",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
+      "api": "https://agit.ai/wzs1973/test/raw/branch/master/libs/drpy.ym.js",
       "ext": "https://agit.ai/wzs1973/test/raw/branch/master/JS/海兔影院.js"
     },
     {
@@ -550,13 +550,6 @@
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
       "ext": "https://agit.ai/wzs1973/test/raw/branch/master/JS/18av.js"
-    },
-    {
-      "key": "drpy_js_玩偶姐姐",
-      "name": "玩偶姐姐[JS]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
-      "ext": "https://agit.ai/wzs1973/test/raw/branch/master/JS/玩偶姐姐.js"
     },
     {
       "key": "drpy_js_吸瓜",
