@@ -360,49 +360,49 @@
       "name": "搜狗视频[JS]",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/菜狗.js"
+      "ext": "https://agit.ai/wzs1973/test/raw/branch/master/JS/菜狗.js"
     },   
     {
       "key": "drpy_js_360影视",
       "name": "360影视[JS]",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/360影视.js"
+      "ext": "https://agit.ai/wzs1973/test/raw/branch/master/JS/360影视.js"
     },
     {
       "key": "drpy_js_优酷",
       "name": "优酷视频[JS]",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/优酷.js"
+      "ext": "https://agit.ai/wzs1973/test/raw/branch/master/JS/优酷.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "腾讯视频[JS]",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/腾云驾雾.js"
+      "ext": "https://agit.ai/wzs1973/test/raw/branch/master/JS/腾云驾雾.js"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "百忙无果[JS]",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/百忙无果.js"
+      "ext": "https://agit.ai/wzs1973/test/raw/branch/master/JS/百忙无果.js"
     },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "奇珍异兽[JS]",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/奇珍异兽.js"
+      "ext": "https://agit.ai/wzs1973/test/raw/branch/master/JS/奇珍异兽.js"
     },
     {
       "key": "drpy_js_小宝影视",
       "name": "小宝影视[JS]",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/小宝影视.js"
+      "ext": "https://agit.ai/wzs1973/test/raw/branch/master/JS/小宝影视.js"
     },
     {
       "key": "drpy_js_剧荒",
@@ -444,7 +444,7 @@
       "name": "DJ音乐[JS]",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/DJ音乐.js"
+      "ext": "https://agit.ai/wzs1973/test/raw/branch/master/JS/DJ音乐.js"
     },
     {
       "key": "drpy_js_ 尘落影视",
@@ -479,91 +479,91 @@
       "name": "量子影视[JS]",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/量子影视.js"
+      "ext": "https://agit.ai/wzs1973/test/raw/branch/master/JS/量子影视.js"
     },        
     {
       "key": "drpy_js_星辰(首图2)",
       "name": "星辰影院[JS]",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/星辰(首图2).js"
+      "ext": "https://agit.ai/wzs1973/test/raw/branch/master/JS/星辰(首图2).js"
     },
     {
       "key": "drpy_js_海兔影院",
       "name": "海兔影院[JS]",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/海兔影院.js"
+      "ext": "https://agit.ai/wzs1973/test/raw/branch/master/JS/海兔影院.js"
     },
     {
       "key": "drpy_js_兰花影院",
       "name": "兰花影院[JS]",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/兰花影院.js"
+      "ext": "https://agit.ai/wzs1973/test/raw/branch/master/JS/兰花影院.js"
     },
     {
       "key": "drpy_js_海盗听书",
       "name": "海盗听书[JS]",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/海盗听书.js"
+      "ext": "https://agit.ai/wzs1973/test/raw/branch/master/JS/海盗听书.js"
     },
     {
       "key": "drpy_js_听书网",
       "name": "天天听书[JS]",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/听书网.js"
+      "ext": "https://agit.ai/wzs1973/test/raw/branch/master/JS/听书网.js"
     },
     {
       "key": "drpy_js_蜻蜓FM",
       "name": "蜻蜓FM[JS]",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/蜻蜓FM.js"
+      "ext": "https://agit.ai/wzs1973/test/raw/branch/master/JS/蜻蜓FM.js"
     },
     {
       "key": "drpy_js_小品网",
       "name": "小品网[JS]",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/小品网.js"
+      "ext": "https://agit.ai/wzs1973/test/raw/branch/master/JS/小品网.js"
     },    
     {
       "key": "drpy_js_猫了个咪",
       "name": "猫了个咪[JS]",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/猫了个咪.js"
+      "ext": "https://agit.ai/wzs1973/test/raw/branch/master/JS/猫了个咪.js"
     },
     {
       "key": "drpy_js_养端",
       "name": "养端视频[JS]",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/养端.js"
+      "ext": "https://agit.ai/wzs1973/test/raw/branch/master/JS/养端.js"
     },
     {
       "key": "drpy_js_18AV",
       "name": "AV在线[JS]",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/18av.js"
+      "ext": "https://agit.ai/wzs1973/test/raw/branch/master/JS/18av.js"
     },
     {
       "key": "drpy_js_玩偶姐姐",
       "name": "玩偶姐姐[JS]",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/玩偶姐姐.js"
+      "ext": "https://agit.ai/wzs1973/test/raw/branch/master/JS/玩偶姐姐.js"
     },
     {
       "key": "drpy_js_吸瓜",
       "name": "吸瓜视频[JS]",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/吸瓜.js"
+      "ext": "https://agit.ai/wzs1973/test/raw/branch/master/JS/吸瓜.js"
     },
     {
       "key": "csp_xb_玄天",
