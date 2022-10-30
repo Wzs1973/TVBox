@@ -83,7 +83,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/jar/kmys.jar;MD5:C6C3ABB8B47FC5509434A4CCA224CD32"
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/jar/kmys.jar;md5;C6C3ABB8B47FC5509434A4CCA224CD32"
     },     
     {
       "key": "csp_Lib",
