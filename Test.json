@@ -73,7 +73,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/jar/ts%20.jar"
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/jar/ts%20.jar;md5;cf3d3695dd5014a2b7120e4a9ce03a1c"
     },
     {
       "key": "csp_Kmys",
@@ -93,7 +93,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/jar/ts%20.jar"
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/jar/ts%20.jar;md5;cf3d3695dd5014a2b7120e4a9ce03a1c"
     },
     {
       "key": "csp_JianYing",
@@ -167,7 +167,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/jar/ts%20.jar"
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/jar/ts%20.jar;md5;cf3d3695dd5014a2b7120e4a9ce03a1c"
     },
     {
       "key": "csp_Bdys01",
