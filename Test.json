@@ -39,10 +39,10 @@
       "filterable": 1
     },
     {
-      "key": "csp_DY1010",
+      "key": "csp_Dy1010",
       "name": "双十电影[PS]",
       "type": 3,
-      "api": "csp_DY1010",
+      "api": "csp_Dy1010",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -140,10 +140,10 @@
       "filterable": 1
     },
     {
-      "key": "csp_Ddys",
+      "key": "csp_Ddrk",
       "name": "低端影视[PS]",
       "type": 3,
-      "api": "csp_Ddys",
+      "api": "csp_Ddrk",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
