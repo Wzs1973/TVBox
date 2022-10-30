@@ -92,7 +92,8 @@
       "api": "csp_Lib",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/jar/ts%20.jar"
     },
     {
       "key": "csp_Anfuns",
@@ -164,7 +165,8 @@
       "api": "csp_IKan",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/jar/ts%20.jar"
     },
     {
       "key": "csp_Bdys01",
