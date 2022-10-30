@@ -66,6 +66,16 @@
       "filterable": 1
     },
     {
+      "key": "csp_Tbook",
+      "name": "天天听书[PS]",
+      "type": 3,
+      "api": "csp_Tbook",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/jar/ts%20.jar;md5;cf3d3695dd5014a2b7120e4a9ce03a1c"
+    },    
+    {
       "key": "csp_Yanet",
       "name": "鸭奈菲[PS]",
       "type": 3,
