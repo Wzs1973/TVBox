@@ -200,12 +200,6 @@
       "filterable": 1
     },
     {
-      "key": "*sese",
-      "name": "*sese",
-      "type": 0,
-      "api": "http://m.7777688.com/inc/api.php/"
-    },
-    {
       "key": "MM",
       "name": "MM",
       "type": 0,
