@@ -1,9 +1,8 @@
 {
   "小兵": "https://6vv.app",
-  "小雅": "http://alist.xiaoya.pro",
   "杜比": "https://dubi.tk",
+  "小雅": "http://alist.xiaoya.pro",
   "琪琪": "pan.isscc.top",
-  "饺子": "https://wp.sav.cc",
   "帥鵬": "https://hi.shuaipeng.wang",
   "星夢": "https://pan.bashroot.top",
   "晴園": "https://alist.52qy.repl.co",
@@ -18,5 +17,8 @@
   "姬路白雪": "https://pan.jlbx.xyz",
   "神族九帝": "https://alist.shenzjd.com",
   "資源小站": "https://960303.xyz",
-  "Disk": "http://124.222.140.243:8080"
+  "Disk": "http://124.222.140.243:8080",
+  "饺子":"https://wp.sav.cc",
+  "9T(Adult)":"https://drive.9t.ee",
+  "木偶": "https://www.kugutsu.ml"
 }
