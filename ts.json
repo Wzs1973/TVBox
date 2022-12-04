@@ -206,7 +206,7 @@
       "searchable":"0",
       "quickSearch":"0",
       "filterable":"0",
-      "ext":"85b2986381a134ba3ebbaf25ae8138e7#https://agit.ai/wzs1973/test/raw/branch/master/Bili/搭讪.json"
+      "ext":"85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/json/搭讪.json"
     },    
     {
       "key":"Bili",
@@ -216,7 +216,7 @@
       "searchable":"1",
       "quickSearch":"1",
       "filterable":"1",
-      "ext":"85b2986381a134ba3ebbaf25ae8138e7#https://wzs1973.github.io/json/bili.json"
+      "ext":"85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/json/bili.json"
     },
     {
       "key":"AList",
@@ -224,7 +224,7 @@
       "type": "3",
       "api":"csp_AList",
       "searchable":"1",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/alist1.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/json/alist.json"
     }, 
     {
       "key":"Cokemv",
@@ -294,7 +294,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,      
-      "ext": "https://Wzs1973.github.io/XPathMacFilter/六度.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/XPathMacFilter/六度.json"
     },    
     {
       "key": "csp_XPM_独播库",
@@ -304,7 +304,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,      
-      "ext": "https://Wzs1973.github.io/XPathMacFilter/独播库.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/XPathMacFilter/独播库.json"
     },
     {
       "key": "csp_XPM_冷曦影视",
@@ -314,7 +314,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,      
-      "ext": "https://Wzs1973.github.io/XPathMacFilter/冷曦影视.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/XPathMacFilter/冷曦影视.json"
     },    
     {
       "key": "csp_XPM_九亿国语",
@@ -324,7 +324,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,      
-      "ext": "https://Wzs1973.github.io/XPathMacFilter/九亿国语.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/XPathMacFilter/九亿国语.json"
     },   
     {
       "key": "js_小品网",
@@ -414,7 +414,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,      
-      "ext": "https://Wzs1973.github.io/XB/搜狗影院.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/XB/搜狗影院.json"
     },    
     {
       "key": "csp_XB_骚火电影",
@@ -424,7 +424,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,      
-      "ext": "https://Wzs1973.github.io/XB/骚火电影.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/XB/骚火电影.json"
     },
     {
       "key":"影图",
