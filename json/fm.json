@@ -3,15 +3,16 @@
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
-      "name": "直播",
-      "type": 0,
-      "url": "https://Wzs1973.github.io/tv/18.txt"
-    },
-    {
-      "name": "Adult",
-      "type": 0,
-      "url": "https://agit.ai/wzs1973/Fu/raw/branch/master/Adult.m3u"
-    } 
+      "group": "redirect",
+      "channels": [        
+        {
+          "name": "live",
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vV3pzMTk3My9UVkJveC9tYWluL3R2LzE4LnR4dA=="
+          ]
+        }
+      ]
+    }
   ],
   "sites": [
     {
@@ -92,8 +93,8 @@
       "key": "js_18av",
       "name": "18av",
       "type": 3,
-      "api": "https://wzs1973.github.io/libs/drpy.min.js",
-      "ext": "https://wzs1973.github.io/JS/18/18av.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/18av.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -102,8 +103,8 @@
       "key": "js_养端",
       "name": "养端",
       "type": 3,
-      "api": "https://wzs1973.github.io/libs/drpy.min.js",
-      "ext": "https://wzs1973.github.io/JS/18/养端.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/养端.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -112,8 +113,8 @@
       "key": "js_吸瓜",
       "name": "吸瓜",
       "type": 3,
-      "api": "https://wzs1973.github.io/libs/drpy.min.js",
-      "ext": "https://wzs1973.github.io/JS/18/吸瓜.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/吸瓜.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -122,8 +123,8 @@
       "key": "js_猫了个咪",
       "name": "猫咪",
       "type": 3,
-      "api": "https://wzs1973.github.io/libs/drpy.min.js",
-      "ext": "https://wzs1973.github.io/JS/18/猫了个咪.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/猫了个咪.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -132,8 +133,8 @@
       "key": "js_banan",
       "name": "Banan",
       "type": 3,
-      "api": "https://wzs1973.github.io/libs/drpy.min.js",
-      "ext": "https://wzs1973.github.io/JS/18/banan.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/banan.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
