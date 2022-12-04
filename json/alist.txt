@@ -1,24 +1,156 @@
-{
-  "小兵": "https://6vv.app",
-  "杜比": "https://dubi.tk",
-  "小雅": "http://alist.xiaoya.pro",
-  "琪琪": "pan.isscc.top",
-  "帥鵬": "https://hi.shuaipeng.wang",
-  "星夢": "https://pan.bashroot.top",
-  "晴園": "https://alist.52qy.repl.co",
-  "梓澪": "https://zi0.cc",
-  "秋雨": "https://share.laowang.me",
-  "米奇": "https://anime.mqmmw.ga",
-  "觸光": "https://pan.ichuguang.com",
-  "一只魚": "https://alist.youte.ml",
-  "七米藍": "https://al.chirmyram.com",
-  "浩瀚吧": "https://8023.haohanba.cn",
-  "雲播放": "https://quanzi.laoxianghuijia.cn",
-  "姬路白雪": "https://pan.jlbx.xyz",
-  "神族九帝": "https://alist.shenzjd.com",
-  "資源小站": "https://960303.xyz",
-  "Disk": "http://124.222.140.243:8080",
-  "饺子":"https://wp.sav.cc",
-  "9T(Adult)":"https://drive.9t.ee",
-  "木偶": "https://www.kugutsu.ml"
-}
+    [
+        {
+            "name": "小雅",
+            "server": "http://alist.xiaoya.pro",
+            "startPage" : "/",
+            "showAll" : false,
+            "search" : true
+        },
+        {
+            "name": "小兵",
+            "server": "https://6vv.app",
+            "startPage" : "/",
+            "showAll" : false,
+            "search" : true
+        },
+        {
+            "name": "杜比",
+            "server": "https://dubi.tk",
+            "startPage" : "/",
+            "showAll" : false,
+            "search" : true
+        },
+        {
+            "name": "琪琪",
+            "server": "pan.isscc.top",
+            "startPage" : "/",
+            "showAll" : false,
+            "search" : true
+        },
+        {
+            "name": "帥鵬",
+            "server": "https://hi.shuaipeng.wang",
+            "startPage" : "/",
+            "showAll" : false,
+            "search" : true
+        },
+        {
+            "name": "星夢",
+            "server": "https://pan.bashroot.top",
+            "startPage" : "/",
+            "showAll" : false,
+            "search" : true
+        },
+        {
+            "name": "晴園",
+            "server": "https://alist.52qy.repl.co",
+            "startPage" : "/",
+            "showAll" : false,
+            "search" : true
+        },
+        {
+            "name": "梓澪",
+            "server": "https://zi0.cc",
+            "startPage" : "/",
+            "showAll" : false,
+            "search" : true
+        },
+        {
+            "name": "秋雨",
+            "server": "https://share.laowang.me",
+            "startPage" : "/",
+            "showAll" : false,
+            "search" : true
+        },
+        {
+            "name": "米奇",
+            "server": "https://anime.mqmmw.ga",
+            "startPage" : "/",
+            "showAll" : false,
+            "search" : true
+        },
+        {
+            "name": "觸光",
+            "server": "https://pan.ichuguang.com",
+            "startPage" : "/",
+            "showAll" : false,
+            "search" : true
+        },
+        {
+            "name": "一只魚",
+            "server": "https://alist.youte.ml",
+            "startPage" : "/",
+            "showAll" : false,
+            "search" : true
+        },
+        {
+            "name": "七米藍",
+            "server": "https://al.chirmyram.com",
+            "startPage" : "/",
+            "showAll" : false,
+            "search" : true
+        },
+        {
+            "name": "浩瀚吧",
+            "server": "https://8023.haohanba.cn",
+            "startPage" : "/",
+            "showAll" : false,
+            "search" : true
+        },
+        {
+            "name": "雲播放",
+            "server": "https://quanzi.laoxianghuijia.cn",
+            "startPage" : "/",
+            "showAll" : false,
+            "search" : true
+        },
+        {
+            "name": "姬路白雪",
+            "server": "https://pan.jlbx.xyz",
+            "startPage" : "/",
+            "showAll" : false,
+            "search" : true
+        },
+        {
+            "name": "神族九帝",
+            "server": "https://alist.shenzjd.com",
+            "startPage" : "/",
+            "showAll" : false,
+            "search" : true
+        },
+        {
+            "name": "資源小站",
+            "server": "https://960303.xyz",
+            "startPage" : "/",
+            "showAll" : false,
+            "search" : true
+        },
+        {
+            "name": "Disk",
+            "server": "http://124.222.140.243:8080",
+            "startPage" : "/",
+            "showAll" : false,
+            "search" : true
+        },
+        {
+            "name": "饺子",
+            "server": "https://wp.sav.cc",
+            "startPage" : "/",
+            "showAll" : false,
+            "search" : true
+        },
+        {
+            "name": "9T(Adult)",
+            "server": "https://drive.9t.ee",
+            "startPage" : "/",
+            "showAll" : false,
+            "search" : true
+        },
+        {
+            "name": "木偶",
+            "server": "https://www.kugutsu.ml",
+            "startPage" : "/",
+            "showAll" : false,
+            "search" : true
+        }
+    ]
