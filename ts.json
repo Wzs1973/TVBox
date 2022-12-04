@@ -713,7 +713,7 @@
     {"host":"*","rule":["douyin.com/aweme","video_id="]},
     {"host":"*","rule":["huoshan.com","/item/video/"]},
     {"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*|http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)|http((?!http).)*?xg.php\\?id=|http((?!http).)*?/m3/(.*)\\.css"]}],  
-  "lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93enMxOTczLmdpdGh1Yi5pby90di9UVi50eHQ="]}]}],
+  "lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=eHhvb28ubWwvUnk1NHBI"]}]}],
   "parses": [
     {"name":"解析聚合","type":3,"url":"Demo"},
     {"name":"Web解析聚合","type":3,"url":"Web"},
