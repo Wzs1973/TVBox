@@ -1,0 +1,31 @@
+{
+	"author":"无尘",
+	"ua":"",
+	// 首页地址 用于获取 分类和首页推荐
+	"homeUrl":"https://juhuang.tv/",
+	// 分类节点
+	"cateNode": "//ul[@class='tag tag-type']/li",
+	// 分类名
+	"cateName": "text()",
+	"cateManual": {
+		"电影": "1",
+		"剧集": "2",
+		"综艺": "3",
+		"动漫": "4"
+	},
+	// 首页推荐视频的节点
+	"homeVodNode": "//ul/li[@class='grid-item']/a",
+	"homeVodName": "@title",
+	"homeVodId": "@href",
+	"homeVodIdR": "",
+	"homeVodImg": "@data-original",
+	"homeVodMark": "",
+	// 同上面的homeVod字段 分类列表中的视频信息
+	"cateUrl": "https://juhuang.tv/type/{cateId}_type.html",
+	"cateVodNode": "//div[@class='module-item']/div/div",
+	"cateVodName": "//a@title",
+	"cateVodId": "//a@href",
+	"cateVodIdR": "",
+	"cateVodImg": "//img@data-src",
+	"cateVodMark": ""
+}
