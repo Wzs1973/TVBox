@@ -1,0 +1,56 @@
+{
+	"ua": "",
+	// 首页地址 用于获取 分类和首页推荐
+	"homeUrl": "https://www.555yy4.com/",
+	// 分类节点
+	//"cateNode": "//ul[@class='tag tag-type']/li",
+	// 分类名
+	//"cateName": "text()",
+	"cateManual": {
+		"电影": "1",
+		"连续剧": "2",
+		"综艺纪录": "3",
+		"动漫": "4"
+	},
+	// 首页推荐视频的节点
+	"homeVodNode": "//a[@class='stui-vodlist__thumb lazyload']",
+	"homeVodName": "@title",
+	"homeVodId": "@href",
+	"homeVodIdR": "",
+	"homeVodImg": "@data-original",
+	"homeVodMark": "",
+	// 同上面的homeVod字段 分类列表中的视频信息
+	"cateUrl": "https://www.555yy4.com/vodtype/{cateId}.html",
+	"cateVodNode": "//div[@class='module-main scroll-box']/div/a",
+	"cateVodName": "@title",
+	"cateVodId": "@href",
+	"cateVodIdR": "",
+	"cateVodImg": "/div/div[3]/img/@data-original",
+	"cateVodMark": "",
+	// 详情页地址 用于获取详情页信息 及 播放列表和地址
+	"dtUrl": "https://www.555yy4.com{vid}",
+	//"dtUrl":"",
+	// 详情节点
+	"dtNode": "//div[@class='module-info-main']/div",
+	// 视频名
+	"dtName": "/h1/text()",
+	"dtNameR": "",
+	"dtImg": "@data-original",
+	//"dtActor": "@href",
+	"dtFromNode": "//span[@class='mac_hits hits hide']",
+	"dtFromName": "\"内线路\"",
+	"dtUrlNode": "//span[@class='mac_hits hits hide']",
+	"dtUrlSubNode": "//span[@class='mac_hits hits hide']",
+	"dtUrlId": "@data-id",
+	"dtUrlIdR": "",
+	"dtUrlName": "\"立即播放\"",
+	"playUrl": "https://jh9x5ps56ybz8g61c.com:58003/index.php/vod/play/id/{playUrl}/sid/1/nid/1.html",
+	//搜索
+	"searchUrl": "https://jh9x5ps56ybz8g61c.com:58003/index.php/vod/search.html?wd={wd}&submit=",
+    "scVodNode": "//a[@class='stui-vodlist__thumb lazyload']",
+    "scVodName": "@title",
+    "scVodId": "@href",
+    "scVodIdR": "",
+    "scVodImg": "@data-original",
+    "scVodMark": ""
+}
