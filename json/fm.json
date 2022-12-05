@@ -140,6 +140,16 @@
       "filterable": 0
     },
     {
+      "key":"csp_xp_yp",
+      "name":"YP视频",
+      "type":0,
+      "api":"csp_XPath",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/xpath/YP.json"
+    },    
+    {
       "key":"环亚",
       "name":"环亚",
       "type":0,
@@ -155,6 +165,32 @@
       "api": "https://api.ykapi.net/api.php/provide/vod/",
       "searchable": 1,
       "filterable": 1
+    },
+    {
+      "key":"易看",
+      "name":"易看",
+      "type":1,
+      "api":"https://api.yikanapi.com/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1
+    },
+    {
+      "key":"CK资源2",
+      "name":"CK",
+      "type":1,
+      "api":"http://www.feifei67.com/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
+      "key":"葡萄",
+      "name":"葡萄",
+      "type":1,
+      "api":"https://api.putaozy.net/inc/apijson_vod.php",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
     },
     {
       "key":"*博天堂",
