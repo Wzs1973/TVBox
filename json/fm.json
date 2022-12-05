@@ -140,7 +140,7 @@
       "filterable": 0
     },
     {
-      "key":"csp_xp_yp",
+      "key":"csp_XPath",
       "name":"YP视频",
       "type":0,
       "api":"csp_XPath",
@@ -211,7 +211,7 @@
     },
     {
       "key": "*奶插",
-      "name": "*奶插",
+      "name": "奶插",
       "type": 1,
       "api": "https://caiji.naichaapi.com/inc/apijson_vod.php",
       "searchable": 1,
