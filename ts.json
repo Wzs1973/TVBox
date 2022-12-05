@@ -327,6 +327,16 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/XPathMacFilter/九亿国语.json"
     },
     {
+      "key": "csp_XPM_美剧虫",
+      "name": "美剧",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/XPathMacFilter/美剧虫.json"
+    },    
+    {
       "key":"drpy_js_Alist",
       "name":"Alist[js]",
       "type":3,
