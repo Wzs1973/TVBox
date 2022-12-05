@@ -285,7 +285,29 @@
       "quickSearch":"1",
       "filterable":"1",
       "ext":"f41992bd740145ed58cb212dc0876582"
-    },       
+    },
+    {
+      "key":"YS2345",
+      "name":"2345",
+      "type":3,
+      "api":"csp_YS2345",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/json/2345.js",
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/jar/XBPQ.jar"
+    },
+    {
+      "key":"奈菲中文",
+      "name":"奈菲",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/xBPQ/奈菲中文.json",
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/jar/XBPQ.jar"
+    },
     {
       "key": "csp_XP_六度",
       "name": "六度",
