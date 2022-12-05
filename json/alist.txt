@@ -21,13 +21,6 @@
             "search" : true
         },
         {
-            "name": "琪琪",
-            "server": "pan.isscc.top",
-            "startPage" : "/",
-            "showAll" : false,
-            "search" : true
-        },
-        {
             "name": "帥鵬",
             "server": "https://hi.shuaipeng.wang",
             "startPage" : "/",
