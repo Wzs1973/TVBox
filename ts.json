@@ -483,7 +483,17 @@
       "quickSearch": 1,
       "filterable": 0,      
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/XB/稀饭影视.json"
-    },  
+    },
+    {
+      "key": "csp_XBiu",
+      "name": "YP视频",
+      "type": 3,
+      "api": "csp_XBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/xpath/YP.json"
+    },    
     {
       "key":"影图",
       "name":"影图",
