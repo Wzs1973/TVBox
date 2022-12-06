@@ -211,7 +211,7 @@
     },
     {
       "key": "*奶插",
-      "name": "*奶插",
+      "name": "奶插",
       "type": 1,
       "api": "https://caiji.naichaapi.com/inc/apijson_vod.php",
       "searchable": 1,
